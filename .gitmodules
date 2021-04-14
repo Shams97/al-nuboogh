@@ -74,3 +74,8 @@
 	path = intpath/nuboogh_pdf_sales_report
 	url = git@github.com:intpath/nuboogh_pdf_sales_report.git
 	branch = master
+
+[submodule "intpath/dev_picking_cancel"]
+	path = intpath/dev_picking_cancel
+	url = git@github.com:intpath/dev_picking_cancel.git
+	branch = master
