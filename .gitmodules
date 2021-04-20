@@ -79,3 +79,8 @@
 	path = intpath/dev_picking_cancel
 	url = git@github.com:intpath/dev_picking_cancel.git
 	branch = master
+
+[submodule "intpath/stock_reverse_landed_costs_app"]
+	path = intpath/stock_reverse_landed_costs_app
+	url = git@github.com:intpath/stock_reverse_landed_costs_app.git
+	branch = master
