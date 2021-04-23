@@ -84,3 +84,8 @@
 	path = intpath/stock_reverse_landed_costs_app
 	url = git@github.com:intpath/stock_reverse_landed_costs_app.git
 	branch = master
+
+[submodule "intpath/stock_int_customisations"]
+	path = intpath/stock_int_customisations
+	url = git@github.com:intpath/stock_int_customisations.git
+	branch = master
