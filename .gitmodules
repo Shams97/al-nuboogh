@@ -89,3 +89,8 @@
 	path = intpath/stock_int_customisations
 	url = git@github.com:intpath/stock_int_customisations.git
 	branch = master
+
+[submodule "intpath/bi_customer_limit"]
+	path = intpath/bi_customer_limit
+	url = git@github.com:intpath/bi_customer_limit.git
+	branch = master
